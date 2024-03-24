@@ -1,0 +1,8 @@
+.Footer {
+  border: 2px solid rebeccapurple;
+  background-color: #232f3e;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

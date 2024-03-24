@@ -1,0 +1,17 @@
+.BestSellingCardMainContainer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  gap: 10px;
+}
+.best-selling-image {
+  width: 100px;
+}
+h2 {
+  height: 10%;
+}
+img {
+  height: 200px;
+  width: 200px;
+  /* gap: 20px; */
+}

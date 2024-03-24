@@ -1,0 +1,7 @@
+.slideBarMainContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #232f3e;
+  color: antiquewhite;
+}

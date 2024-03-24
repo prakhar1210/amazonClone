@@ -1,0 +1,40 @@
+.TodaysDealMainContainer {
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+.TodaysDealContainer {
+  /* border: 2px solid green; */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+}
+.TodaysDealOuterContainer {
+  /* border: 2px solid pink; */
+  margin: 25px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+}
+.TodaysDealContainer > h2 {
+  /* border: 2px solid violet; */
+  height: 8%;
+  width: 100%;
+  display: flex;
+}
+.TodaysDealContainer > p {
+  /* border: 2px solid blue; */
+}
+.TodaysDealTitleContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 10%;
+  /* border: 2px solid orange; */
+  gap: 50px;
+}
